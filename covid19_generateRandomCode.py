@@ -2,7 +2,7 @@ import random, string
 
 """Function generateRandomCode()
 @param length: length of alphanumeric code
-Description: The sgenerateRandomCode() function takes in one parameter,
+Description: The generateRandomCode() function takes in one parameter,
              length, which is set to 10. The function then generates
              a random alphanumeric code of that length and returns it.
 """
