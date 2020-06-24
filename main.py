@@ -45,7 +45,7 @@ def sshSession(isDiagnosed, username="root", password="toor", port=22):
 
 """Function isDiagnosed()
 @param username: directory in which a diagnosis, if it exists, will be shown.
-Description: The generateRandomCode() function takes in one parameter, description,
+Description: The isDiagnosed() function takes in one parameter, description,
 which is set to sentCodes. then, the os.path.exists() function is used to see if a
 diagnosis file is present. If it is, the user has been diagnosed.
 """
