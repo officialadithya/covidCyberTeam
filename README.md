@@ -20,7 +20,7 @@ For the file ipFile.txt, input all IP addresses that you wish to run the simulat
 		192.168.0.1
 		192.168.0.2
 		192.168.0.3
-  	192.168.0.4
+  		192.168.0.4
 	 	192.168.0.5
 	 	192.168.0.6
 
