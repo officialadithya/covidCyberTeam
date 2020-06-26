@@ -26,6 +26,6 @@ For the file ipFile.txt, input all IP addresses that you wish to run the simulat
 
 The methodology that this bundle uses is as follows:
   
-  While two devices are close to each other for a certain time, each device will send a code to all other devices that it is close to. Each device will keep track of the codes that it has sent and the codes it has received. Then, when a device is diagnosed with COVID-19, it will stop sending codes and will direct all other devices it has sent codes to in the past to stop as well. Ideally, the codes are completely independed from the devices that send or receive them, to preserve privacy.
+  While two devices are close to each other for a certain time, each device will send a code to all other devices that it is close to. Each device will keep track of the codes that it has sent and the codes it has received. Then, when a device is diagnosed with COVID-19, it will stop sending codes and will direct all other devices it has sent codes to in the past to stop as well. Ideally, the codes are completely independent from the devices that send or receive them, to preserve privacy.
   
   The methodology was inspired by the following video: https://www.youtube.com/watch?v=D__UaR5MQao
