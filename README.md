@@ -5,6 +5,9 @@ This bundle is meant to show a proof-of-concept of a cybersecurity-focused metho
 
 		python3
 		paramiko
+		main.py
+		generateRandomCode.py
+		ipFile.txt
     
 			
 python3 is the language in which the script is written in. If python3 is not installed on the system where the script will be ran, install it by going to https://www.python.org/downloads/ and downloading the latest stable version. From there, follow all directions. To run the file after all dependencies are installed, execute python3 main.py
